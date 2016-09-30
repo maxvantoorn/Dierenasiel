@@ -1,0 +1,7 @@
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenasielTest\obj\Debug\DierenasielTest.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenasielTest\bin\Debug\DierenasielTest.dll
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenasielTest\bin\Debug\DierenasielTest.pdb
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenasielTest\bin\Debug\DierenAsiel.exe
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenasielTest\bin\Debug\DierenAsiel.pdb
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenasielTest\obj\Debug\DierenasielTest.dll
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenasielTest\obj\Debug\DierenasielTest.pdb

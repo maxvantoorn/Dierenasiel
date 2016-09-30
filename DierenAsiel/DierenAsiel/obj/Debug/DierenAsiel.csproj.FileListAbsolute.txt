@@ -1,0 +1,9 @@
+c:\users\eigenaar\documents\visual studio 2013\Projects\DierenAsiel\DierenAsiel\bin\Debug\DierenAsiel.exe.config
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenAsiel\obj\Debug\DierenAsiel.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenAsiel\obj\Debug\DierenAsiel.Form1.resources
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenAsiel\obj\Debug\DierenAsiel.Properties.Resources.resources
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenAsiel\obj\Debug\DierenAsiel.csproj.GenerateResource.Cache
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenAsiel\bin\Debug\DierenAsiel.exe
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenAsiel\bin\Debug\DierenAsiel.pdb
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenAsiel\obj\Debug\DierenAsiel.exe
+C:\Users\Eigenaar\Documents\Visual Studio 2013\Projects\DierenAsiel\DierenAsiel\obj\Debug\DierenAsiel.pdb
